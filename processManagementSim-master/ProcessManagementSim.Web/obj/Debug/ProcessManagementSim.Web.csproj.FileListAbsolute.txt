@@ -1,0 +1,15 @@
+c:\users\bfranchini\documents\visual studio 2012\Projects\ProcessManagementSim\ProcessManagementSim.Web\bin\ProcessManagementSim.Web.dll
+c:\users\bfranchini\documents\visual studio 2012\Projects\ProcessManagementSim\ProcessManagementSim.Web\bin\ProcessManagementSim.Web.pdb
+c:\users\bfranchini\documents\visual studio 2012\Projects\ProcessManagementSim\ProcessManagementSim.Web\obj\Debug\ProcessManagementSim.Web.csprojResolveAssemblyReference.cache
+c:\users\bfranchini\documents\visual studio 2012\Projects\ProcessManagementSim\ProcessManagementSim.Web\obj\Debug\ProcessManagementSim.Web.dll
+c:\users\bfranchini\documents\visual studio 2012\Projects\ProcessManagementSim\ProcessManagementSim.Web\obj\Debug\ProcessManagementSim.Web.pdb
+C:\Users\Bruno\Documents\Visual Studio 2012\Projects\School\COSC 519 Operating Systems\processManagementSim\ProcessManagementSim.Web\bin\ProcessManagementSim.Web.dll
+C:\Users\Bruno\Documents\Visual Studio 2012\Projects\School\COSC 519 Operating Systems\processManagementSim\ProcessManagementSim.Web\bin\ProcessManagementSim.Web.pdb
+C:\Users\Bruno\Documents\Visual Studio 2012\Projects\School\COSC 519 Operating Systems\processManagementSim\ProcessManagementSim.Web\obj\Debug\ProcessManagementSim.Web.csprojResolveAssemblyReference.cache
+C:\Users\Bruno\Documents\Visual Studio 2012\Projects\School\COSC 519 Operating Systems\processManagementSim\ProcessManagementSim.Web\obj\Debug\ProcessManagementSim.Web.dll
+C:\Users\Bruno\Documents\Visual Studio 2012\Projects\School\COSC 519 Operating Systems\processManagementSim\ProcessManagementSim.Web\obj\Debug\ProcessManagementSim.Web.pdb
+C:\Users\jooho\Downloads\processManagementSim-master (1)\processManagementSim-master\ProcessManagementSim.Web\bin\ProcessManagementSim.Web.dll
+C:\Users\jooho\Downloads\processManagementSim-master (1)\processManagementSim-master\ProcessManagementSim.Web\bin\ProcessManagementSim.Web.pdb
+C:\Users\jooho\Downloads\processManagementSim-master (1)\processManagementSim-master\ProcessManagementSim.Web\obj\Debug\ProcessManagementSim.Web.csprojResolveAssemblyReference.cache
+C:\Users\jooho\Downloads\processManagementSim-master (1)\processManagementSim-master\ProcessManagementSim.Web\obj\Debug\ProcessManagementSim.Web.dll
+C:\Users\jooho\Downloads\processManagementSim-master (1)\processManagementSim-master\ProcessManagementSim.Web\obj\Debug\ProcessManagementSim.Web.pdb
