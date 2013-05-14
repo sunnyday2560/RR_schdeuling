@@ -108,7 +108,7 @@ namespace ProcessManagementSim
                  //if there's still items in the queue, put the next one in the runstate
                  if (queue.Count > 0)
                  {
-                     if (key == 0)   //key prevent situation that two processes do DivProcessSize() at once when you click just one next button.
+                     if (key == 0)   //key prevent situation that two processes do DivProcessSize() at a time when you click just one next button.
                      {
 
                       
