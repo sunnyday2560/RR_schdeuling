@@ -105,51 +105,15 @@ namespace ProcessManagementSim
                      runState.currentProcess = null;
                  }
 
-
-            /***********Bruno's code****************************/
-             /*
                  //if there's still items in the queue, put the next one in the runstate
                  if (queue.Count > 0)
-                 {
-                     runState.currentProcess = queue.Dequeue();
-
-                     //do work on process and subtract processSize
-                     runState.currentProcess.DivProcessSize();
-                     
-                     if(!runState.currentProcess.Continue() && queue.Count > 0)
-                     {
-                         runState.currentProcess = queue.Dequeue();
-                         runState.currentProcess.DivProcessSize();
-                     }
-
-                     if (queue.Count <= 0 && !runState.currentProcess.Continue())
-                         endSimulation();
-
-                 }
-                 else
-                 {
-                     endSimulation();
-                 }     
-    
-
-             */
-
-
-
-          /******************Jooho's fixed code**********************/
-
-                 //if there's still items in the queue, put the next one in the runstate
-                 if (queue.Count > 0 || run.Text != String.Empty)            //If not use '|| run.Text != String.Empty', when situation that every queues are empty but
-                                                                             //not finished all processes(because one process is in the runstate.), application do 'endsimulation'.
-                                                                             //So, I add this sentence: || run.Text != String.Empty.
-
                  {
                      if (key == 0)   //key prevent situation that two processes do DivProcessSize() at once when you click just one next button.
                      {
 
                       
-                         runState.currentProcess = queue.Dequeue();   //I think when ready quese empty and one process is in runstate, this sentence make error.
-
+                         runState.currentProcess = queue.Dequeue();   
+                         
                          //do work on process and subtract processSize
                          runState.currentProcess.DivProcessSize();
                          key = 1;
